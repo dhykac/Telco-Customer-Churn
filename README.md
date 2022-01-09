@@ -1,6 +1,6 @@
-# Exploratory Data Analysis Telco Customer Churn
+# Telco Customer Churn
 
-In this directory i'm doing exploratory data analysis to Telco_Customer_Churn.csv.
+In this directory i'm doing data analysis to Telco_Customer_Churn.csv.
 
 ## Preparations
 
